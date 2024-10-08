@@ -1,0 +1,12 @@
+[submodule "staticCurves/contracts/lib/forge-std"]
+	path = staticCurves/contracts/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "dynamicCurves/contracts/lib/forge-std"]
+	path = dynamicCurves/contracts/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "adaptativeCruves/contracts/lib/forge-std"]
+	path = adaptativeCruves/contracts/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "augementedCurves/contracts/lib/forge-std"]
+	path = augementedCurves/contracts/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
